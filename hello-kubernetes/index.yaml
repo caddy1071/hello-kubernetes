@@ -3,12 +3,12 @@ entries:
   hello-kubernetes:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-04-12T17:07:57.313002985-05:00"
+    created: "2024-04-12T17:29:55.158550184-05:00"
     description: A Helm chart for Kubernetes
     digest: 53b20bfc53bef33ed6b5199f84fd031213904752593cede1c4372bcde98bc205
     name: hello-kubernetes
     type: application
     urls:
-    - https://caddy1071.github.io/hello-kubernetes/hello-kubernetes-1.0.0.tgz
+    - https://caddy1071.github.io/hello-kubernetes/hello-kubernetes/hello-kubernetes-1.0.0.tgz
     version: 1.0.0
-generated: "2024-04-12T17:07:57.311502069-05:00"
+generated: "2024-04-12T17:29:55.158057528-05:00"
